@@ -27,9 +27,4 @@ SHREYAS S D - HOMEPAGE
 TARUN S - LOGIN AND SIGNUP PAGE
 CHARITHA - DESTINATIONS PAGE
 BOYA SHINY - ITINERY PAGE
-git clone https://github.com/your-username/local-tourism-website.git
 
-# Step 2: Navigate to the project folder
-cd local-tourism-website
-
-# Step 3: Open index.html in your browser (for frontend-only projects)
